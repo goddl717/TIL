@@ -39,7 +39,7 @@
 
 5. remote로 push 
 
-``` git push origin <branch 명> ```
+``` git push <저장소 명> <branch 명> ```
 
 
 
